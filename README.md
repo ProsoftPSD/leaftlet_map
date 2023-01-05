@@ -1,2 +1,2 @@
-# leaftlet_map
+# react-leaflet-sandbox
 Created with CodeSandbox
